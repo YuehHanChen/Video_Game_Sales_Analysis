@@ -31,7 +31,7 @@ I used the **Mutiple Linear regression** to analyze the relationship between ind
 
 #### Research Question 1: What are top 5 genres of high global sales?
 
-The top 5 genres by average high sales is 'Sports', 'Racing', 'Role-Playing', 'Shooter', 'Platform', and the top 1 Platform is twice as big as Sports' sales numbers.
+The top 5 genres by average high sales is 'Sports', 'Racing', 'Role-Playing', 'Shooter', 'Platform', and the top 1, Platform, is twice as big as Sports' sales numbers.
 
 #### Research Question 2: What are top 5 Publisher of high global sales?
 
